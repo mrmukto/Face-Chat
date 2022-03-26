@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344773945885",
+    "project_id": "face-chat-7b361",
+    "storage_bucket": "face-chat-7b361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344773945885:android:66c94360306e64a340f4f4",
+        "android_client_info": {
+          "package_name": "com.mrmukto.FaceChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344773945885-gf3b9v4l1qu9tu9fhn7b44bkln038bf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo18EtfiUWWab-dUnmM9HBT9LbOacWENI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344773945885-gf3b9v4l1qu9tu9fhn7b44bkln038bf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
